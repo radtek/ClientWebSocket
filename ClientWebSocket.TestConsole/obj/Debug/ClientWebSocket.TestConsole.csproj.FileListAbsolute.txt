@@ -1,0 +1,8 @@
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\bin\Debug\ClientWebSocket.TestConsole.exe.config
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\bin\Debug\ClientWebSocket.TestConsole.exe
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\bin\Debug\ClientWebSocket.TestConsole.pdb
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\bin\Debug\ClientWebSocket.pdb
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\obj\Debug\ClientWebSocket.TestConsole.exe
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\obj\Debug\ClientWebSocket.TestConsole.pdb
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\obj\Debug\ClientWebSocket.TestConsole.csprojResolveAssemblyReference.cache
+C:\projects\ClientWebSocket\ClientWebSocket.TestConsole\bin\Debug\ClientWebSocket.dll
