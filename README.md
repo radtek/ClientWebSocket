@@ -1,9 +1,12 @@
-# ClientWebSocket For .NET Framework 4.x
+# ClientWebSocket For .NET Framework
 This library is a .NET implementation of websocket client. It is a C++/CLI wrapper of Microsoft C++ Rest SDK.
 http://microsoft.github.io/cpprestsdk/namespaceweb_1_1websockets_1_1client.html
 
+# Requirement
+.NET Framework 4.0 or newer
+
 # Background
-Although Windows 8 and newer natively support websocket protocol, older versions of Windows are not able to use the official implementation. Microsoft has an open source websocket library for older versions of Windows, but it's available only for C++. ClientWebSocket for .NET Framework 4.x bridges the gap.
+Although Windows 8 and newer natively support websocket protocol, older versions of Windows are not able to use the official implementation. Microsoft has an open source websocket library for older versions of Windows, but it's available only for C++. ClientWebSocket for .NET Framework bridges the gap.
 
 # Interface
 ClientWebSocket class has four public methods. All methods are blocking operations.
